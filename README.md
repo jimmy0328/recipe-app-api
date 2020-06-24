@@ -1,4 +1,10 @@
 
+## run build
+
+```
+docker-compose build
+```
+
 ## run test
 
 ```
